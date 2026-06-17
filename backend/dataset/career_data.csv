@@ -1,0 +1,11 @@
+Career,Skills,Projects,Internships,Roadmap,Certification,Resources
+ML Engineer,"Python Machine Learning TensorFlow","Image Captioning","AI Intern","Python > NumPy > Pandas > Machine Learning > Deep Learning > Projects","IBM AI Engineering Professional Certificate","Coursera, Kaggle, freeCodeCamp"
+Data Scientist,"Python Statistics Pandas","Data Analysis Dashboard","Data Science Intern","Python > Statistics > Pandas > Data Science > Projects","IBM Data Science Professional Certificate","Coursera, Kaggle"
+Frontend Developer,"React JavaScript CSS","Portfolio Website","Frontend Intern","HTML > CSS > JavaScript > React > Projects","Meta Front-End Developer","freeCodeCamp, MDN"
+Backend Developer,"Node.js Express MongoDB","REST API","Backend Intern","JavaScript > Node.js > Express > MongoDB > APIs","Meta Back-End Developer","freeCodeCamp, YouTube"
+Full Stack Developer,"React Node.js MongoDB","Job Portal","Full Stack Intern","HTML > CSS > JavaScript > React > Node.js > MongoDB","Full Stack Open","FullStackOpen, freeCodeCamp"
+Data Analyst,"Python Excel SQL","Sales Dashboard","Data Analyst Intern","Excel > SQL > Python > Power BI > Analytics","Google Data Analytics","Coursera, Kaggle"
+Cybersecurity Analyst,"Networking Linux Security","Security Scanner","Cybersecurity Intern","Networking > Linux > Security > Ethical Hacking","Google Cybersecurity Certificate","TryHackMe, HackTheBox"
+Cloud Engineer,"AWS Docker Kubernetes","Cloud Deployment","Cloud Intern","Linux > AWS > Docker > Kubernetes","AWS Cloud Practitioner","AWS Skill Builder"
+Android Developer,"Java Kotlin Android","Mobile App","Android Intern","Java > Kotlin > Android Studio > Projects","Android Developer Certification","Google Developers"
+Software Engineer,"C++ DSA OOP","Management System","SDE Intern","C++ > DSA > OOP > System Design > Projects","Microsoft Software Engineering Certificate","GeeksforGeeks, LeetCode"    
